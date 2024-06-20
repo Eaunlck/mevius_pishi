@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chengkai Lian - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77aaff 3px solid;
+        }
+        header a {
+            color: #fff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 16px;
+        }
+        header ul {
+            padding: 0;
+            list-style: none;
+        }
+        header li {
+            display: inline;
+            padding: 0 20px 0 20px;
+        }
+        header #branding {
+            float: left;
+        }
+        header #branding h1 {
+            margin: 0;
+        }
+        header nav {
+            float: right;
+            margin-top: 10px;
+        }
+        section#showcase {
+            min-height: 400px;
+            background: #77aaff;
+            color: #fff;
+            text-align: center;
+            padding: 80px 20px;
+        }
+        section#showcase h1 {
+            font-size: 55px;
+            margin-top: 0;
+        }
+        .content {
+            padding: 20px;
+            background: #fff;
+        }
+        .content h2 {
+            text-align: center;
+            padding: 10px 0;
+        }
+        .content p {
+            padding: 10px 0;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div id="branding">
+                <h1>Chengkai Lian</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#experience">Experience</a></li>
+                    <li><a href="#leadership">Leadership</a></li>
+                    <li><a href="#education">Education</a></li>
+                    <li><a href="#skills">Skills</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="showcase">
+        <div class="container">
+            <h1>Welcome to my personal webpage</h1>
+            <p>Discover my experiences, skills, and interests</p>
+        </div>
+    </section>
+
+    <div class="container">
+        <section id="experience" class="content">
+            <h2>Internship & Working Experiences</h2>
+            <p><strong>Intern at the Department of International Cooperation</strong><br>
+            New Oriental Education & Technology Group<br>
+            Beijing, China | May. 2021 – Aug. 2021<br>
+            - Edited weekly newsletters that are sent on groups’ Office Automation.<br>
+            - Made weekly reports on EdTech unicorns and forefront educational innovations.<br>
+            - Participated in project management that oversaw commercial cooperation.<br>
+            - Helped organise and participated in commercial meetings with EdTech groups and presses.<br><br>
+
+            <strong>Intern at the Department for Cultural and Consular Affairs</strong><br>
+            Office of Foreign Affairs, Fujian Provincial People’s government<br>
+            Fuzhou, China | Jul. 2019 - Aug. 2019<br>
+            - Assisted in the procedural correspondence with foreign consulates.<br>
+            - Assisted in editing official newsletters and departmental magazines.<br><br>
+
+            <strong>Clerk/Assistant Manager</strong><br>
+            Huangdao Bookstore in Tianjin<br>
+            Tianjin, China | Sep. 2018 – Jun. 2021<br>
+            - Assisted in and then took charge of the daily functioning of the student-initiated bookstore.<br>
+            - Assessed local market size and implemented marketing schemes on social platforms to promote book sales during the pandemic, raising the sum of sales by around 120%.<br>
+            - Made defences of the annual all-round performance of the bookstore before the Tianjin Municipal Government and gained the title “The Most Beautiful Bookstore of Tianjin” and ¥20k grant.<br><br>
+
+            <strong>Student Research Fellow</strong><br>
+            School of International Governance Innovation, GDUFS<br>
+            Guangzhou, China | Sep. 2021 – Jun. 2022<br>
+            - Intensive and immersive working and researching experiences for the institutions and regulations in Chinese global trade governance.<br>
+            - Acted as chief editor in editing Referencia de estudios paraguayos, biweekly bulletin focusing on Paraguayan affairs.<br>
+            - Assisting in the organisation and installation of the 3rd UN Job Fair in GDUFS.<br>
+            </p>
+        </section>
+
+        <section id="leadership" class="content">
+            <h2>Leadership Activities & Programs</h2>
+            <p><strong>Vicechair, Office for student rights in College of Foreign Languages, NKU</strong><br>
+            Jun. 2018 – Jun. 2019<br>
+            - Responsible for the regular report and feedback for students’ rights and complaints.<br>
+            - Responsible for the event organization & setup (the annually NKU-TJU ball; the Foreign Language & Culture Festival of NKU, etc.).<br><br>
+
+            <strong>Director of Communication, Host Association of Nankai University</strong><br>
+            Sep. 2017 – Jun. 2019<br>
+            - In charge of publicity, marketing, and visual design of this student club.<br>
+            - Oversaw the organization & setup for the 5th Host Contest of NKU.<br><br>
+
+            <strong>Volunteer Teaching & English, World History Curriculum Design</strong><br>
+            Zhongyue Elementary School, Luoyang, Henan Province, China | August 2018<br><br>
+
+            <strong>Column Writer, World Science Fiction Frontiers</strong><br>
+            Chinese Science Writer Association | Nov. 2021 – Jun. 2023<br>
+            </p>
+        </section>
+
+        <section id="education" class="content">
+            <h2>Education</h2>
+            <p><strong>MA Latin American Studies</strong><br>
+            University College London, Institute of the Americas<br>
+            London, United Kingdom | Sep. 2022 – Apr. 2024<br>
+            - Merit, obtained<br>
+            - Relevant Coursework: The Politics of Human Rights in Latin America; Quantitative Research; Researching the Americas; Gender, Public Policies in Latin America<br>
+            - Dissertation Project: Participation mechanisms and policy-related representation and recognition of environmental justice movements of local indigenous communities in southeast Mexico<br><br>
+
+            <strong>Bachelor of Arts in Spanish Language and Literature</strong><br>
+            Nankai University, College of Foreign Languages<br>
+            Tianjin, China | Sep. 2017 – Jun. 2021<br>
+            - 88.96%, obtained<br>
+            - Awards & Honours: 2019 University Scholarship for Academic Excellence<br>
+            - Relevant Coursework: Panorama of Spanish-Speaking Countries, Spanish Writing, Western Culture and Chinese Modernization<br>
+            </p>
+        </section>
+
+        <section id="skills" class="content">
+            <h2>Interests & Skills</h2>
+            <p><strong>All-round Skills:</strong> Teamworking, Critical Thinking, Networking and Presentational Skills<br>
+            <strong>Computer Skills:</strong> Microsoft Office (Word, Excel, PowerPoint), Adobe Photoshop, SQL, Python<br>
+            <strong>Languages:</strong> Mandarin Chinese (native), Spanish & English (professional), French (Intermediate)<br>
+            <strong>IELTS:</strong> 8.0 (Listening: 8.5, Reading: 8.5, Writing: 7.5, Speaking: 7.5)<br>
+            <strong>Graduate Record Examination (GRE):</strong> Overall 325 (Verbal 159+Quantitative 166) +AW 3.5<br>
+            <strong>Diplomas de Español Como Lengua Extranjera (DELE):</strong> B2, C1<br>
+            <strong>Blogging & Videoclips production:</strong> Personal poetry and literature WeChat Public Account; Personal Videoclips account on Bilibibli.com with over 20,000 plus views.<br>
+            <strong>Other:</strong> Poetry (Posted on Wechat & Douban Personal Account); Hosting (being host for several university-level events); Reading books from various topics<br>
+            </p>
+        </section>
+
+        <section id="contact" class="content">
+            <h2>Contact Information</h2>
+            <p>Address: 3 Alexandra Road, London, N8 0PJ, United Kingdom<br>
+            Phone: (+44) 07470821651<br>
+            Email: mimicap@proton.me<br>
+            LinkedIn: <a href="https://www.linkedin.com/in/lianchengkai-2281ab183/">https://www.linkedin.com/in/lianchengkai-2281ab183/</a><br>
+            </p>
+        </section>
+    </div>
+
+    <footer>
+        <p>Chengkai Lian &copy; 2024</p>
+    </footer>
+</body>
+</html>
